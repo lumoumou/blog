@@ -7,4 +7,4 @@
 > 3 . 就读大学：**广州城建职业学院**
 
 ## 自己的第一个html网页
-\[bts防弹少年团\]\(https://lumoumou.github.io/blog/)
+> [bts防弹少年团](https://lumoumou.github.io/blog/)
